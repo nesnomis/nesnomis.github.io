@@ -23,7 +23,6 @@ description: my site
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Test: "test"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
